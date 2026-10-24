@@ -31,9 +31,7 @@ The catalogue and statistics are already being generated automatically, while ph
 
 ## Album Covers
 
-A selection of album artwork from the collection.
-
-![Album covers](.music_stats/cover_mosaic.png)
+A selection of album artwork from the collection is made into a collage. For copyright reasons it is not given in this repository :)
 
 [Browse the complete album list](albums.csv)
 
